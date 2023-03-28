@@ -11,12 +11,15 @@ const Hero = ({ reference, scrollToSection, next }) => {
       <div className="video_bg">
         <video src={video} autoPlay={true} loop muted></video>
       </div>
-      <div className="robothon"><h1 className="robothontext">ROBOTHON</h1></div>
-      <div className="cadathon"><h1 className="robothontext">CADATHON</h1></div>
-      <div className="braniac"><h1 className="robothontext">BRANIAC</h1></div>
-      <div className="constructo"><h1 className="robothontext">CONSTRUCTO</h1></div>
-      <div className="codothon"><h1 className="robothontext">CODOTHON</h1></div>
-      <div className="about"><h1 className="robothontext">ABOUT</h1></div>
+
+      <div className="robothon"><a href="./#everobothon"><h1 className="robothontext">ROBOTHON</h1></a></div>
+      <div className="cadathon"><a href="./#evecadathon"><h1 className="robothontext">CADATHON</h1></a></div>
+      <div className="braniac"><a href="./#evebraniac"><h1 className="robothontext">BRANIAC</h1></a></div>
+      <div className="constructo"><a href="./#eveconstructo"><h1 className="robothontext">CONSTRUCTO</h1></a></div>
+      <div className="codothon"><a href="./#evecodothon"><h1 className="robothontext">CODOTHON</h1></a></div>
+      <div className="about"><a href="./#eveabout"><h1 className="robothontext">ABOUT</h1></a></div>
+    
+
     
 
       <img src={bgtechno} className='bgtechno' alt="" />
