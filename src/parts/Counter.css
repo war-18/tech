@@ -98,8 +98,6 @@
   .Counter {
     width: 100vw;
     height: 250px;
-    /* height:50%; */
-    /* width:60%; */
     background-size: cover;
     overflow: hidden;
     margin: 5rem 0;
