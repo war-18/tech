@@ -100,7 +100,7 @@ const Events = ({ reference }) => {
       <div className="Heading">
         <img src={header} alt="" style={{"width":"100%"}} />
       </div>
-      <div id="#evehead" className="evehead">
+      <div id="everobothon" className="evehead">
         <img src={everobothon} alt="" style={{"width":"100%","marginTop":"10%"}}/>
       </div>
       <div className="Event_gap">
@@ -112,7 +112,7 @@ const Events = ({ reference }) => {
       <div className="Event_gap">
         <EventCardL name={"ROCKETLEAGUE"} image={rocketleague} link={"/rocketleague"} />
       </div>
-      <div id="#evehead" className="evehead">
+      <div id="evecadothon" className="evehead">
         <img src={evecadathon} alt="" style={{"width":"100%","marginTop":"10%"}}/>
       </div>
       <div className="Event_gap">
@@ -121,7 +121,7 @@ const Events = ({ reference }) => {
       <div className="Event_gap">
         <EventCardL name={"CAD MASTER"} image={cad} link={"/cadmaster"} />
       </div>
-      <div id="#evehead" className="evehead">
+      <div id="evebraniac" className="evehead">
         <img src={evebraniac} alt="" style={{"width":"100%","marginTop":"10%"}}/>
       </div>
       <div className="Event_gap">
@@ -139,7 +139,7 @@ const Events = ({ reference }) => {
       <div className="Event_gap">
         <EventCardR name={"EXPEDITION HUNT"} image={Expedition} link={"/expeditionhunt"} />
       </div>
-      <div id="#evehead" className="evehead">
+      <div id="eveconstructo" className="evehead">
         <img src={eveconstructo} alt="" style={{"width":"100%","marginTop":"10%"}}/>
       </div>
       <div className="Event_gap">
@@ -148,7 +148,7 @@ const Events = ({ reference }) => {
       <div className="Event_gap">
         <EventCardR name={"SURVIVE THE FALL"} image={Nirmiti} link={"/survivethefall"} />
       </div>
-      <div id="#evehead" className="evehead">
+      <div id="evecodothon" className="evehead">
         <img src={evecodothon} alt="" style={{"width":"100%","marginTop":"10%"}}/>
       </div>
       <div className="Event_gap">
