@@ -9,3 +9,9 @@
   margin-top: 4rem;
   width: 100%;
 }
+
+@media only screen and (max-width: 600px) {
+  #past-events{
+    margin-top: -44rem;
+  }
+}
