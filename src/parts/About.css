@@ -26,3 +26,8 @@
     margin-bottom: 10rem;
   }
 }
+@media only screen and (max-width: 600px) {
+  .About{
+    margin-top: -13rem;
+  }
+}
